@@ -33,46 +33,7 @@
    All files and data are automatically deleted when the session ends or the timer expires.
 
 ---
-
-## 📸 Application Screenshots
-
-Explore the core interfaces and features of FileCrave:
-
-1. **Main Website**  
-   ![Main Website](Pics/1.png)  
-   The landing page introduces FileCrave’s capabilities and guides users through the process.
-
-2. **Chatbot Interface**  
-   ![Chatbot](Pics/2.png)  
-   Access real-time assistance and support via the integrated chatbot.
-
-3. **About Us Page**  
-   ![About Us](Pics/3.png)  
-   Discover our mission, values, and the team behind FileCrave.
-
-4. **Create Session Dialog**  
-   ![Create Session Dialog](Pics/4.png)  
-   Effortlessly start a new session with a single click.
-
-5. **Access Session Dialog**  
-   ![Access Session Dialog](Pics/5.png)  
-   Join existing sessions securely by entering your session token.
-
-6. **Session User Interface**  
-   ![Session UI](Pics/6.png)  
-   Manage file transfers and clipboard sharing within a streamlined session dashboard.
-
-7. **Session UI with Clipboard Expanded**  
-   ![Session UI - Clipboard Expanded](Pics/7.png)  
-   View and manage clipboard history for enhanced productivity.
-
-8. **End Session Dialog**  
-   ![End Session Dialog](Pics/8.png)  
-   Securely terminate your session and ensure all data is deleted.
-
-For additional information or to request a live demonstration, please contact our support team.
-
----
+## Demo Video in Linkedin: https://www.linkedin.com/posts/srishti-bhatt-60a3ba220_filecrave-webdevelopment-tailwindcss-activity-7342142821878943745-grLo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFwE_WUBJYjUxaxfD1GdY5aKys2Iz_F8sA4
 
 ## 🛠️ Use Cases
 
@@ -88,10 +49,6 @@ FileCrave is purpose-built for privacy and simplicity. Unlike traditional file-s
 
 ---
 
-## 📝 About
 
-Developed by **Ayush Barthwal**, FileCrave is dedicated to individuals and organizations that prioritize privacy and efficiency in file sharing.
-
----
-
+Developed by Team Achievers, includesss Srishti Bhatt, Ayush Barthwal, Rainsi and Rohit Bisht.
 > **Note:** This is an early release intended for internal evaluation
