@@ -50,5 +50,5 @@ FileCrave is purpose-built for privacy and simplicity. Unlike traditional file-s
 ---
 
 
-Developed by Team Achievers, includesss Srishti Bhatt, Ayush Barthwal, Rainsi and Rohit Bisht.
+Developed by Team Achievers, includes Ayush Barthwal, Srishti Bhatt, Rainsi and Rohit Bisht.
 > **Note:** This is an early release intended for internal evaluation
